@@ -205,3 +205,6 @@ See [CONTRIBUTING](CONTRIBUTING.md)
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
+## Support
+
+If you encounter any issues or have questions, please [open an issue](https://github.com/MoonMoon1919/gignore/issues) on GitHub.
