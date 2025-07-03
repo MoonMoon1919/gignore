@@ -4,7 +4,7 @@
 
 1. **Familiarize yourself with the project.**
    - Read the [README](README.md) to understand the project's scope and purpose.
-   - Explore the [issue tracker](https://github.com/[Project Name]/issues) to see what's being worked on and what's been requested.
+   - Explore the [issue tracker](https://github.com/MoonMoon1919/gignore/issues) to see what's being worked on and what's been requested.
 
 2. **Choose a task.**
    - Look for issues tagged with "good first issue," "help wanted," or other labels that indicate tasks suitable for beginners.
@@ -19,7 +19,7 @@
    - Click "Fork" to create a copy of the repository in your own account.
 
 2. **Clone the forked repository to your local machine.**
-   - `git clone <your_fork_url> [Project Name]`
+   - `git clone <your_fork_url> MoonMoon1919/gignore`
 
 3. **Create a new branch for your changes.**
    - `git checkout -b <your_branch_name>`
