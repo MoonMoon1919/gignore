@@ -13,7 +13,7 @@ A Go library for programmatically managing `.gitignore` and `.dockignore` files 
 ## Installation
 
 ```bash
-go get github.com/MoonMoon1919/gignore-cli
+go get github.com/MoonMoon1919/gignore
 ```
 
 ## Quick Start
@@ -23,7 +23,7 @@ package main
 
 import (
     "fmt"
-    "github.com/MoonMoon1919/gignore-cli"
+    "github.com/MoonMoon1919/gignore"
 )
 
 func main() {
