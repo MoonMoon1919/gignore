@@ -4,12 +4,14 @@ on:
   pull_request:
     paths-ignore:
       - '**/*.md'
+      - 'LICENSE'
       - ".gitignore"
   push:
     branches:
       - 'main'
     paths-ignore:
       - '**/*.md'
+      - 'LICENSE'
       - ".gitignore"
 
 jobs:
